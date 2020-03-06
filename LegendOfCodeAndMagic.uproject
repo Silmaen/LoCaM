@@ -18,12 +18,12 @@
 		},
 		{
 			"Name": "BacktraceIntegration",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/66f20b48cf6741e3a47a1fad7d118651"
 		},
 		{
 			"Name": "Debug",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/739ccab666f245e08397bcbf668063ed"
 		},
 		{
@@ -43,7 +43,7 @@
 		},
 		{
 			"Name": "OptickPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/95c078f6fa924b2b82fd8f281e04850f"
 		},
 		{
@@ -234,10 +234,6 @@
 		},
 		{
 			"Name": "SubversionSourceControl",
-			"Enabled": false
-		},
-		{
-			"Name": "TcpMessaging",
 			"Enabled": false
 		},
 		{
