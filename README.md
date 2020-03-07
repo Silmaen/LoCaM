@@ -5,15 +5,19 @@ Developed with Unreal Engine 4
 
 ## Original game
 
-The original game could be found at 
-https://jakubkowalski.tech/Projects/LOCM/
+This was a contest for CodingGame, now a multiplayer game:
 
-This wa a contest for CodingGame, now a multiplayer game:
 https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic
 
 The original referee is there:
+
 https://github.com/CodinGame/LegendsOfCodeAndMagic
 
-the author's site about the game:
+The author's site about the game:
+
+https://jakubkowalski.tech/Projects/LOCM/
+
+The list of cards:
+
 https://jakubkowalski.tech/Projects/LOCM/cardlist.html
 
